@@ -133,3 +133,31 @@
   - [x] Problem Set 8
   - [x] P3 Session 66 Notes
   - [x] P3 Session 67 Exam Solution
+
+- **30:**
+  - [x] P4 Session 68 Lecture Notes Recitation HW
+  - [x] P4 Session 69 Notes HW
+  - [x] P4 Session 70 Notes HW
+
+- **31:**
+  - [x] P4 Session 71 Lecture Notes Recitation HW
+  - [x] P4 Session 72 Notes Recitation HW
+  - [x] P4 Session 73 Notes Recitation HW
+
+## 🌕Month: Apirl
+- **1:**
+  - [x] Problem Set 9
+  - [x] P4 Session 74 Lecture Notes HW
+  - [x] P4 Session 75 Notes HW Recitation
+
+- **2:**
+  - [x] P4 Session 76 Lecture Notes Recitation HW
+  - [x] P4 Session 77 Notes
+  - [x] P4 Session 78 Lecture Notes Recitation HW
+  - [x] P4 Session 79 Notes Recitation HW
+
+- **3:**
+  - [x] Problem Set 10
+  - [x] P4 Session 80 Lecture Notes Recitation HW
+  - [x] P4 Session 81 Notes HW
+  - [x] P4 Session 82 Notes Recitation
